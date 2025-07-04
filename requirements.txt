@@ -1,8 +1,8 @@
 streamlit
-yfinance
-plotly
 pandas
-numpy 
+numpy
+plotly
+yfinance
 datetime
 time
 portfolio_manager  
