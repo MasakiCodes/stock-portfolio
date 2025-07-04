@@ -3,3 +3,8 @@ yfinance
 plotly
 pandas
 numpy 
+datetime
+time
+portfolio_manager  
+stock_data
+charts
